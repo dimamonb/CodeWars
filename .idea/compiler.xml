@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="VasiaClerk" />
+        <module name="JosephusPermutation" />
+        <module name="humanduration" />
+        <module name="CodewarsStyleRanking" />
+        <module name="TwoSum" />
+        <module name="sumofdigits" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CodewarsStyleRanking" target="8" />
+      <module name="humanduration" target="8" />
+      <module name="JosephusPermutation" target="8" />
+      <module name="parent-module" target="8" />
+      <module name="sumofdigits" target="8" />
+      <module name="TwoSum" target="8" />
+      <module name="VasiaClerk" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

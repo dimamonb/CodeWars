@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeWarsStyleRanking/CodewarsStyleRanking.iml" filepath="$PROJECT_DIR$/CodeWarsStyleRanking/CodewarsStyleRanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JosephusPermutation/JosephusPermutation.iml" filepath="$PROJECT_DIR$/JosephusPermutation/JosephusPermutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VasiaClerk/VasiaClerk.iml" filepath="$PROJECT_DIR$/VasiaClerk/VasiaClerk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HumanDuration/humanduration.iml" filepath="$PROJECT_DIR$/HumanDuration/humanduration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-module.iml" filepath="$PROJECT_DIR$/parent-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfDigits/sumofdigits.iml" filepath="$PROJECT_DIR$/SumOfDigits/sumofdigits.iml" />
+    </modules>
+  </component>
+</project>
