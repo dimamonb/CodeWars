@@ -7,14 +7,6 @@ import java.util.List;
 
 public class Josephus {
 
-    public static int joseph(int size, int k) {
-        return size > 1 ? (joseph(size - 1, k) + k - 1) % size + 1 : 1;
-    }
-
-    public static int joseph1(int size, int k) {
-        return size > 1 ? (joseph(size - 1, k) + k - 1) % size + 1 : 1;
-    }
-
     public static <T> List<T> josephusPermutation(final List<T> items, final int k) {
         List<T> result = new ArrayList<>();
         int idx = 0;
