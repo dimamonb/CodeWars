@@ -7,20 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="VasiaClerk" />
-        <module name="JosephusPermutation" />
+        <module name="Vasia-Clerk" />
+        <module name="sumofdigits" />
+        <module name="josephus-permutation" />
         <module name="humanduration" />
         <module name="CodewarsStyleRanking" />
         <module name="TwoSum" />
-        <module name="sumofdigits" />
+        <module name="JosephusPermutation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CodewarsStyleRanking" target="8" />
       <module name="humanduration" target="8" />
+      <module name="josephus-permutation" target="8" />
       <module name="JosephusPermutation" target="8" />
       <module name="parent-module" target="8" />
       <module name="sumofdigits" target="8" />
       <module name="TwoSum" target="8" />
+      <module name="Vasia-Clerk" target="7" />
       <module name="VasiaClerk" target="7" />
     </bytecodeTargetLevel>
   </component>
