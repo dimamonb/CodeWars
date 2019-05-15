@@ -16,6 +16,7 @@
         <module>HumanDuration</module>
         <module>JosephusPermutation</module>
         <module>CodeWarsStyleRanking</module>
+        <module>JosephusSurvivor</module>
     </modules>
 
     <build>
